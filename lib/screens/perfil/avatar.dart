@@ -49,7 +49,6 @@ class _AvatarState extends State<Avatar> {
       return;
     }
     setState(() => _isLoading = true);
-
     try {
       final bytes = await imageFile.readAsBytes();
       final fileExt = imageFile.path.split('.').last.toLowerCase();

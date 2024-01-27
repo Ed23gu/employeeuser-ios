@@ -152,29 +152,6 @@ class _AccountPageState extends State<AccountPage> {
                               size: widthSize50,
                             )),
                       ),
-                      /*  ExpansionTile(
-                    leading: Icon(Icons.brightness_6_outlined),
-                    title: Text(
-                      "Tema",
-                      textAlign: TextAlign.left,
-                    ),
-                    children: <Widget>[
-                      ListTile(
-                        leading: Icon(Icons.wb_sunny),
-                        title: Text("Claro"),
-                        onTap: () {
-                          AdaptiveTheme.of(context).setLight();
-                        },
-                      ),
-                      ListTile(
-                        leading: Icon(Icons.brightness_2_outlined),
-                        title: Text("Oscuro"),
-                        onTap: () {
-                          AdaptiveTheme.of(context).setDark();
-                        },
-                      )
-                    ],
-                  ), */
                     ],
                   )
                 : Padding(
