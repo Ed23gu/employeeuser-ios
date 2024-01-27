@@ -15,6 +15,7 @@ import 'package:internet_connection_checker/internet_connection_checker.dart';
 import 'package:provider/provider.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 
+//ediwn
 final internetChecker = CheckInternetConnection();
 
 Future<void> main() async {
