@@ -1,0 +1,10 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.organizeImports": "explicit"
+  },
+  "BracketHighlighter.enableExtension": true,
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "cmake.configureOnOpen": false,
+  "editor.cursorBlinking": "expand"
+}
